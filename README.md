@@ -84,7 +84,7 @@ Tracking results for satellites 1, 3, 11, and 18 in the urban dataset illustrate
 These phenomena result from urban multipath effects and signal obstructions, which weaken satellite signals and introduce noise. Lower correlation baselines (e.g., PRN 1 and 11) reflect signal attenuation from buildings, while higher values (e.g., PRN 3 and 18) indicate better visibility conditions. Intermittent signal loss arises from blockages and reflections during movement.
 
 
-![](task2_3.png)
+![](task2_8.png)
 
 The correlation function measured in urban environments displays remarkably elevated magnitude levels compared to open-sky conditions, with peak values reaching approximately 11700 units—more than three times the 3400-unit maximum observed in unobstructed settings. Beyond this amplitude difference, the structural characteristics exhibit significant disparities. While unobstructed environments produced symmetrical triangular correlation patterns, the urban measurement reveals pronounced asymmetry and structural anomalies. Particularly noteworthy is the irregular formation occurring between 0.2-0.3 code delay units on the right slope, where the correlation curve deviates from its expected trajectory to form a distinctive horizontal segment. This disruption in the expected correlation profile indicates substantial signal propagation complexity in urban settings.
 
